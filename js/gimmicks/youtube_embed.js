@@ -33,7 +33,7 @@
                     );
                     frame.attr(
                         "src",
-                        "http://youtube.com/embed/" + short_handle
+                        "https://youtube.com/embed/" + short_handle
                     );
                     // remove the a tag
                     $this.replaceWith(frame);
